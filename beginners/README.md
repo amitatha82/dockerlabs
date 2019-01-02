@@ -3,7 +3,7 @@
 # Introduction to Docker 
 
 - [What are Containers? What are they used for?](https://github.com/collabnix/dockerlabs/blob/master/beginners/linux-containers.md)
-- [Difference between Docker & Container?](https://github.com/collabnix/dockerlabs/blob/master/beginners/difference-docker-vm.md)
+- [Difference between VM and Docker](https://github.com/collabnix/dockerlabs/blob/master/beginners/difference-docker-vm.md)
 - [Similarity between VM and Docker](https://github.com/collabnix/dockerlabs/blob/master/beginners/similarity-vm-docker.md)
 - [How is Docker different from Virtual Machine?](https://github.com/collabnix/dockerlabs/blob/master/beginners/difference-vm-containers.md)
 - [Top Reasons why to & why not to run Docker containers directly on Bare Metal System](https://github.com/collabnix/dockerlabs/blob/master/beginners/docker-on-bare-metal.md)
@@ -22,12 +22,13 @@
 # Installing, Upgrading & Maintaining Docker 
 
 - Installing Docker on 
-   - [Linux]()
+   - [Linux](https://github.com/collabnix/dockerlabs/tree/master/beginners/install)
    - Windows 
    - Windows Server
    - Cloud Platform
    - IoT Platform
    - Unix ( FreeBSD, Solaris)  
+   - MacOS
 - Compiling Your Own Docker Binary from Source
 - Docker ToolBox Installations
 - Scripts & Installation Tools
